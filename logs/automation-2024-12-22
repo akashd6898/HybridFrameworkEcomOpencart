@@ -1,0 +1,57 @@
+12:50:53.264 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+12:50:55.256 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+12:50:56.704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:50:56.706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:50:56.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:55:02.669 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+12:55:02.783 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+12:55:03.781 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+12:55:06.163 [main]  INFO utilities.DataProviders - $$Under Data provider method$$
+12:55:06.226 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:55:06.228 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:55:06.228 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:55:06.419 [main]  INFO utilities.DataProviders - $$Accessing the data$$
+15:42:40.237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+15:42:40.345 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+15:42:41.998 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+15:42:43.524 [main]  INFO utilities.DataProviders - $$Under Data provider method$$
+15:42:43.524 [main]  INFO utilities.DataProviders - $$Reading the excel$$
+15:42:43.592 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:42:43.594 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:42:43.595 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:42:43.788 [main]  INFO utilities.DataProviders - $$Accessing the data$$
+15:44:13.267 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+15:44:13.376 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+15:44:14.443 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+15:44:15.832 [main]  INFO utilities.DataProviders - $$Under Data provider method$$
+15:44:15.833 [main]  INFO utilities.DataProviders - $$Reading the excel$$
+15:44:15.897 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:44:15.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:44:15.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:44:16.086 [main]  INFO utilities.DataProviders - $$Passing the Sheet name$$
+15:44:16.087 [main]  INFO utilities.DataProviders - $$Accessing the data$$
+15:57:59.044 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+15:57:59.161 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+15:58:00.156 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+15:58:02.702 [main]  INFO utilities.DataProviders - $$Under Data provider method$$
+15:58:02.703 [main]  INFO utilities.DataProviders - $$Reading the excel$$
+15:58:02.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:58:02.762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:58:02.763 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:58:02.957 [main]  INFO utilities.DataProviders - $$Passing the Sheet name$$
+15:58:02.958 [main]  INFO utilities.DataProviders - $$Accessing the data$$
+15:58:02.959 [main]  INFO utilities.DataProviders - Total Rows: 2, Total Columns: 3
+16:38:53.209 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+16:38:53.320 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+

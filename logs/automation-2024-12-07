@@ -1,0 +1,58 @@
+13:21:37.089 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+13:21:37.198 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+13:21:38.171 [main]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+13:21:39.897 [main]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+13:21:45.404 [main]  INFO tests.TC001_UserRegistrationTest - **Test Registration Fill**
+20:19:06.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+20:19:06.221 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+20:19:09.316 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+20:19:10.302 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+20:19:11.333 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+20:19:12.555 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+20:19:16.854 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Registration Fill**
+20:19:17.101 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Username:rNfyk@gmail.com
+20:19:17.101 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Password:QiU5Fr7zSh
+20:19:17.103 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Password Assert**
+20:19:18.203 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test Registration Fill**
+20:19:18.460 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Username:QUjSU@gmail.com
+20:19:18.461 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Password:M9NtIqCTAj
+20:19:18.462 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test Password Assert**
+20:22:13.921 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+20:22:14.042 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+20:22:15.047 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+20:22:16.420 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+20:22:16.636 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+20:22:17.013 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+20:22:19.438 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+20:22:19.613 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+20:22:22.648 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Registration Fill**
+20:22:22.884 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Username:FYsQQ@gmail.com
+20:22:22.884 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Password:4H4Aszhmrk
+20:22:22.885 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Password Assert**
+20:22:25.152 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test Registration Fill**
+20:22:25.339 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Test Registration Fill**
+20:22:25.473 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Username:XjjMr@gmail.com
+20:22:25.473 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Password:YJHXlv35na
+20:22:25.475 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test Password Assert**
+20:22:25.749 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Username:luokr@gmail.com
+20:22:25.749 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Password:1R2bXSdSPh
+20:22:25.751 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Test Password Assert**
+21:11:52.455 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+21:11:52.578 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+21:11:53.602 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+21:11:54.767 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+21:11:55.195 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test Website**
+21:11:55.401 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+21:11:57.263 [TestNG-tests-3]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+21:11:57.643 [TestNG-tests-2]  INFO tests.TC001_UserRegistrationTest - **Test User Registration**
+21:12:00.917 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Test Registration Fill**
+21:12:01.164 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Username:WMAXN@gmail.com
+21:12:01.165 [TestNG-tests-1]  INFO tests.TC001_UserRegistrationTest - **Password:AUlYvjWK1Q

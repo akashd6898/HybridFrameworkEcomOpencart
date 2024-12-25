@@ -1,0 +1,55 @@
+11:46:14.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:46:14.065 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:51.849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+13:54:51.962 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+13:54:54.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:54:54.091 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:54:54.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:54:54.313 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+13:54:56.649 [main]  INFO tests.TC002_LoginUser - username + password
+14:05:20.025 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+14:05:20.141 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+14:05:21.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:21.191 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:05:21.192 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:05:21.400 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+14:05:22.892 [main]  INFO tests.TC002_LoginUser - username + password
+14:05:22.907 [main]  INFO tests.TC002_LoginUser - Keys to send should be a not null CharSequence
+14:08:30.889 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AppData\Local\JetBrains\Aqua2024.2\temp-testng-customsuite.xml"
+14:08:31.017 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AppData\Local\JetBrains\Aqua2024.2\temp-testng-customsuite.xml
+
+14:08:52.012 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+14:08:52.120 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+14:08:53.173 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:53.174 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:08:53.175 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:53.382 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+14:08:55.947 [main]  INFO tests.TC002_LoginUser - username + password
+14:08:55.956 [main]  INFO tests.TC002_LoginUser - Keys to send should be a not null CharSequence
+14:17:27.349 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+14:17:27.468 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+14:17:28.474 [main]  INFO tests.TC002_LoginUser - reading the excel file
+14:17:28.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:17:28.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:17:28.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:17:28.735 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+14:17:30.427 [main]  INFO tests.TC002_LoginUser - username + password
+14:17:30.436 [main]  INFO tests.TC002_LoginUser - Keys to send should be a not null CharSequence
+15:22:37.509 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+15:22:37.611 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+15:22:39.603 [main]  INFO tests.TC002_LoginUser - reading the excel file
+15:22:39.665 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:22:39.666 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:22:39.666 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:22:39.862 [main]  INFO tests.TC002_LoginUser - ak@mail.com

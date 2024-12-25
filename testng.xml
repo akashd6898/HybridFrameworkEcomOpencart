@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" >
+    <listeners>
+        <listener class-name="utilities.MyListeners"/>
+    </listeners>
+
+    <test name="TestChrome">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+           <class name="tests.TC002_LoginUser">
+            </class>
+        </classes>
+    </test>
+    <!--
+    <test name="TestEdge">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="tests.TC001_UserRegistrationTest"/>
+        </classes>
+    </test>
+    <test name="TestFirefox">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="tests.TC001_UserRegistrationTest"/>
+        </classes>
+    </test>-->
+</suite> <!-- Suite -->

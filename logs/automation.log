@@ -1,0 +1,46 @@
+16:01:29.247 [main]  INFO utilities.DataProviders - $$Accessing the data$$
+16:01:29.250 [main]  INFO utilities.DataProviders - Total Rows: 2, Total Columns: 3
+16:01:29.253 [main]  INFO utilities.DataProviders - ak@mail.com
+16:01:29.253 [main]  INFO utilities.DataProviders - ak@1234
+16:01:29.253 [main]  INFO utilities.DataProviders - Pass
+16:01:29.253 [main]  INFO utilities.DataProviders - bk@mail.com
+16:01:29.253 [main]  INFO utilities.DataProviders - bk@1234
+16:01:29.253 [main]  INFO utilities.DataProviders - Fail
+16:15:59.749 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+16:15:59.866 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+16:16:00.971 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+16:16:02.446 [main]  INFO utilities.DataProviders - $$Under Data provider method$$
+16:16:02.446 [main]  INFO utilities.DataProviders - $$Reading the excel$$
+16:16:02.510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:16:02.512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:16:02.514 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:16:02.713 [main]  INFO utilities.DataProviders - $$Passing the Sheet name$$
+16:16:02.713 [main]  INFO utilities.DataProviders - $$Accessing the data$$
+16:16:02.714 [main]  INFO utilities.DataProviders - Total Rows: 2, Total Columns: 3
+16:16:02.717 [main]  INFO utilities.DataProviders - ak@mail.com
+16:16:02.717 [main]  INFO utilities.DataProviders - ak@1234
+16:16:02.717 [main]  INFO utilities.DataProviders - Pass
+16:16:02.718 [main]  INFO utilities.DataProviders - bk@mail.com
+16:16:02.718 [main]  INFO utilities.DataProviders - bk@1234
+16:16:02.718 [main]  INFO utilities.DataProviders - Fail
+16:21:58.210 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml"
+16:21:58.330 [main]  INFO org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\AKASH\AquaProjects\HybridFrameworkEcomOpencart\testng.xml
+
+16:21:59.470 [main]  INFO tests.TC002_LoginUser - **Navigating to Login**
+16:22:01.910 [main]  INFO utilities.DataProviders - $$Under Data provider method$$
+16:22:01.911 [main]  INFO utilities.DataProviders - $$Reading the excel$$
+16:22:01.972 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:22:01.974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:22:01.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:22:02.177 [main]  INFO utilities.DataProviders - $$Passing the Sheet name$$
+16:22:02.177 [main]  INFO utilities.DataProviders - $$Accessing the data$$
+16:22:02.178 [main]  INFO utilities.DataProviders - Total Rows: 2, Total Columns: 3
+16:22:02.181 [main]  INFO utilities.DataProviders - ak@mail.com
+16:22:02.181 [main]  INFO utilities.DataProviders - ak@1234
+16:22:02.181 [main]  INFO utilities.DataProviders - Pass
+16:22:02.181 [main]  INFO utilities.DataProviders - bk@mail.com
+16:22:02.181 [main]  INFO utilities.DataProviders - bk@1234
+16:22:02.181 [main]  INFO utilities.DataProviders - Fail
